@@ -28,13 +28,13 @@ The project is suitable for **College Projects, Diploma Projects, B.Tech Project
 ![Admin Login](./screenshots/admin-login.png)
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/dashboard-page.png)
+![Dashboard](./screenshots/Dashboard-page.png)
 
 ### 📚 Manage Books
 ![Manage Books](./screenshots/manage-books.png)
 
 ### 👥 Manage Members
-![Manage Members](./screenshots/manage-members.png)
+![Manage Members](./screenshots/manage-member.png)
 
 ### 🔄 Issue / Return Book
 ![Issue Return Book](./screenshots/return-isseu-book.png)
