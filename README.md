@@ -105,6 +105,8 @@ Before running the project, make sure you have:
 - Windows / Linux / macOS
 
 Check Python installation:
+
+
 👨‍💻 Developer
 
 Ashutosh Kumar
