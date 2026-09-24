@@ -105,6 +105,24 @@ Before running the project, make sure you have:
 - Windows / Linux / macOS
 
 Check Python installation:
+👨‍💻 Developer
+Ashutosh Kumar
+Computer Science Engineering Student
+GitHub
+AshutoshKumar950
+
+⭐ Support
+
+If you find this project useful:
+
+⭐ Star the repository
+🍴 Fork the repository
+🛠️ Improve the project
+📢 Share it with other students
+
+🔑 Admin Password 
+User ID admin  ----- ya Admin
+Password - admin123
 
 ```bash
 python --version
