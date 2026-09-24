@@ -28,7 +28,7 @@ The project is suitable for **College Projects, Diploma Projects, B.Tech Project
 ![Admin Login](./screenshots/admin-login.png)
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard-page.png)
 
 ### 📚 Manage Books
 ![Manage Books](./screenshots/manage-books.png)
@@ -37,7 +37,7 @@ The project is suitable for **College Projects, Diploma Projects, B.Tech Project
 ![Manage Members](./screenshots/manage-members.png)
 
 ### 🔄 Issue / Return Book
-![Issue Return Book](./screenshots/issue-return-book.png)
+![Issue Return Book](./screenshots/return-isseu-book.png)
 
 ---
 
