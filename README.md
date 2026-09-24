@@ -31,10 +31,10 @@ The project is suitable for **College Projects, Diploma Projects, B.Tech Project
 ![Dashboard](./screenshots/Dashboard-page.png)
 
 ### 📚 Manage Books
-![Manage Books](./screenshots/manage-books.png)
+![Manage Books](./screenshots/manage-book.png)
 
 ### 👥 Manage Members
-![Manage Members](./screenshots/manage-member.png)
+![Manage Members](./screenshots/manage-mamber.png)
 
 ### 🔄 Issue / Return Book
 ![Issue Return Book](./screenshots/return-isseu-book.png)
