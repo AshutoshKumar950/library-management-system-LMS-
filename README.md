@@ -135,3 +135,16 @@ Password - admin123
 
 ```bash
 python --version
+
+
+
+## 📌 Library Management System
+
+**Library Management System using Python and SQLite** is a desktop-based library management project designed to manage books, library members, book issuing, and book returns.
+
+This Python Library Management System is suitable for students, colleges, diploma projects, B.Tech projects, Python learners, and academic demonstrations.
+
+### 🔎 Project Keywords
+
+`Python Library Management System` • `Library Management System using Python` • `Python SQLite Project` • `Book Management System` • `Library Management Project`
+
